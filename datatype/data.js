@@ -29,10 +29,16 @@ let b='roshan'
 
 
 // d. BIGINT
-let CreditcardNumber = BigInt(1234567891)
+// let CreditcardNumber = BigInt(1234567891)
 
-document.writeln( CreditcardNumber);
+// document.writeln( CreditcardNumber);
+let CreditcardNumber 
 
+
+let yourarereach=false
+
+
+document.writeln(typeof yourarereach )
 
 
 
